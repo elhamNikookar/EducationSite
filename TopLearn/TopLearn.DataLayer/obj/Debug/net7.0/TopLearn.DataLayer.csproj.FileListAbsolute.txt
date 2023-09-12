@@ -1,0 +1,14 @@
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\bin\Debug\net7.0\TopLearn.DataLayer.deps.json
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\bin\Debug\net7.0\TopLearn.DataLayer.runtimeconfig.json
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\bin\Debug\net7.0\TopLearn.DataLayer.dll
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\bin\Debug\net7.0\TopLearn.DataLayer.pdb
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\obj\Debug\net7.0\TopLearn.DataLayer.csproj.AssemblyReference.cache
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\obj\Debug\net7.0\TopLearn.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\obj\Debug\net7.0\TopLearn.DataLayer.AssemblyInfoInputs.cache
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\obj\Debug\net7.0\TopLearn.DataLayer.AssemblyInfo.cs
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\obj\Debug\net7.0\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\obj\Debug\net7.0\TopLearn.DataLayer.dll
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\obj\Debug\net7.0\refint\TopLearn.DataLayer.dll
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\obj\Debug\net7.0\TopLearn.DataLayer.pdb
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\obj\Debug\net7.0\TopLearn.DataLayer.genruntimeconfig.cache
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.DataLayer\obj\Debug\net7.0\ref\TopLearn.DataLayer.dll

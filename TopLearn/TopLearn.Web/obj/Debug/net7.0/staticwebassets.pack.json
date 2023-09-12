@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\plugins\\timeline\\timeline.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\timeline\\timeline.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\css\\sb-admin.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\sb-admin.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\demo\\dashboard-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\dashboard-demo.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\demo\\flot-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\flot-demo.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\demo\\morris-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\morris-demo.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\excanvas.min.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\morris\\morris.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\AdminContent\\js\\sb-admin.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\sb-admin.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\Defult.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\Defult.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\CustomCss.css",
+      "PackagePath": "staticwebassets\\css\\CustomCss.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\BYekan-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.eot"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\BYekan-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\BYekan-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.woff"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\pattern.png"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\1.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\2.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\3.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\4.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\5.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\6.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\7.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\8.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\big-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\big-thumb.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\namad-1.png",
+      "PackagePath": "staticwebassets\\images\\pic\\namad-1.png"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\pic\\namad.png",
+      "PackagePath": "staticwebassets\\images\\pic\\namad.png"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\images\\slide.jpg",
+      "PackagePath": "staticwebassets\\images\\slide.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\modernizr-custom.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-custom.js"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Web\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TopLearn.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TopLearn.Web.props",
+      "PackagePath": "build\\TopLearn.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TopLearn.Web.props",
+      "PackagePath": "buildMultiTargeting\\TopLearn.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TopLearn.Web.props",
+      "PackagePath": "buildTransitive\\TopLearn.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

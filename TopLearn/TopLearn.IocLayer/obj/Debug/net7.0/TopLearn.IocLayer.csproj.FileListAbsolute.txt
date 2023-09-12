@@ -1,0 +1,17 @@
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\bin\Debug\net7.0\TopLearn.IocLayer.deps.json
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\bin\Debug\net7.0\TopLearn.IocLayer.dll
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\bin\Debug\net7.0\TopLearn.IocLayer.pdb
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\bin\Debug\net7.0\TopLearn.Core.dll
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\bin\Debug\net7.0\TopLearn.DataLayer.dll
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\bin\Debug\net7.0\TopLearn.Core.pdb
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\bin\Debug\net7.0\TopLearn.DataLayer.pdb
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\obj\Debug\net7.0\TopLearn.IocLayer.csproj.AssemblyReference.cache
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\obj\Debug\net7.0\TopLearn.IocLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\obj\Debug\net7.0\TopLearn.IocLayer.AssemblyInfoInputs.cache
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\obj\Debug\net7.0\TopLearn.IocLayer.AssemblyInfo.cs
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\obj\Debug\net7.0\TopLearn.IocLayer.csproj.CoreCompileInputs.cache
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\obj\Debug\net7.0\TopLearn.IocLayer.csproj.CopyComplete
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\obj\Debug\net7.0\TopLearn.IocLayer.dll
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\obj\Debug\net7.0\refint\TopLearn.IocLayer.dll
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\obj\Debug\net7.0\TopLearn.IocLayer.pdb
+D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.IocLayer\obj\Debug\net7.0\ref\TopLearn.IocLayer.dll
