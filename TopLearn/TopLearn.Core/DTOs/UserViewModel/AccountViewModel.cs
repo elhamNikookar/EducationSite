@@ -27,7 +27,7 @@ namespace TopLearn.Core.DTOs.UserViewModel
         [MaxLength(200, ErrorMessage = "{0} نمی تواند بیش از{1} کاراکتر  اشته باشد.")]
         public string Password { get; set; }
 
-        [Display(Name = "کلمه عبور")]
+        [Display(Name = "تکرار کلمه عبور")]
         [Required(ErrorMessage = "لطفا{0} را وارد کنید.")]
         [MaxLength(200, ErrorMessage = "{0} نمی تواند بیش از{1} کاراکتر  اشته باشد.")]
         [Compare("Password", ErrorMessage = "کلمه های عبور مغابرت دارند.")]

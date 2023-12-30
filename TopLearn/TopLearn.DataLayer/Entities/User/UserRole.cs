@@ -15,7 +15,7 @@ namespace TopLearn.DataLayer.Entities.User
         }
 
         [Key]
-        public int UR_Id { get; set; }
+        public int UR_Id { get; set; }//user role id
         public int UserId { get; set; }
         public int RoleId { get; set; }
 

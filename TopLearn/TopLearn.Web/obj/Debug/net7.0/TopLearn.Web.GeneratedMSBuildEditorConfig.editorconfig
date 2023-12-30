@@ -9,157 +9,157 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TopLearn.Web
 build_property.RootNamespace = TopLearn.Web
-build_property.ProjectDir = D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.Web\
+build_property.ProjectDir = D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.Web
+build_property.MSBuildProjectDirectory = D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Home/ChangePassword.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Home/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXEhvbWVcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Home/EditProfile.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Home/EditProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXEhvbWVcRWRpdFByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Home/Index.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Shared/_SideBar.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Shared/_SideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFNoYXJlZFxfU2lkZUJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Wallet/Index.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Areas/UserPanel/Views/Wallet/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFdhbGxldFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/_ViewImports.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Areas/UserPanel/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Areas/UserPanel/Views/_ViewStart.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Areas/UserPanel/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/Admin/Index.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/Admin/Roles/CreateRole.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/Admin/Roles/CreateRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm9sZXNcQ3JlYXRlUm9sZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/Admin/Roles/DeleteRole.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/Admin/Roles/DeleteRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm9sZXNcRGVsZXRlUm9sZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/Admin/Roles/EditRole.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/Admin/Roles/EditRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm9sZXNcRWRpdFJvbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/Admin/Roles/Index.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/Admin/Roles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm9sZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/Admin/Users/CreateUser.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/Admin/Users/CreateUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcQ3JlYXRlVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/Admin/Users/DeleteUser.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/Admin/Users/DeleteUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcRGVsZXRlVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/Admin/Users/EditUser.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/Admin/Users/EditUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcRWRpdFVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/Admin/Users/Index.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/Admin/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/Admin/Users/ListDeleteUsers.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/Admin/Users/ListDeleteUsers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcTGlzdERlbGV0ZVVzZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/Shared/_AdminLayout.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/_ViewImports.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Pages/_ViewStart.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Account/ActiveAccount.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Account/ActiveAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY3RpdmVBY2NvdW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Account/ForgotPassword.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Account/Login.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Account/Register.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Account/ResetPassword.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Account/SuccessRegister.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Account/SuccessRegister.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdWNjZXNzUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Home/Index.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Home/onlinePayment.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Home/onlinePayment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxvbmxpbmVQYXltZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Shared/_ActiveEmail.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Shared/_ActiveEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY3RpdmVFbWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Shared/_DefaultLayout.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Shared/_DefaultLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZWZhdWx0TGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Shared/_Footer.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Shared/_ForgotPassword.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Shared/_ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Shared/_MainMenu.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Shared/_MainMenu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Shared/_MetaTags.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Shared/_MetaTags.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZXRhVGFncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/Shared/_Styles.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/Shared/_Styles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHlsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/_ViewImports.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Elham/Train/C\#/Git Project/TopLearn/TopLearn.Web/Views/_ViewStart.cshtml]
+[D:/Elham/Train/C\#/TopLearnGit/TopLearn/TopLearn.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

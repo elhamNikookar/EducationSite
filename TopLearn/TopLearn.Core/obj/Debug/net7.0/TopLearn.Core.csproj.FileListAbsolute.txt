@@ -15,3 +15,20 @@ D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.Core\bin\Debug\net7.0\TopLearn.D
 D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.Core\bin\Debug\net7.0\TopLearn.DataLayer.pdb
 D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.Core\obj\Debug\net7.0\TopLearn.Core.csproj.CopyComplete
 D:\Elham\Train\C#\Git Project\TopLearn\TopLearn.Core\obj\Debug\net7.0\TopLearn.Core.genruntimeconfig.cache
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\bin\Debug\net7.0\TopLearn.Core.deps.json
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\bin\Debug\net7.0\TopLearn.Core.runtimeconfig.json
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\bin\Debug\net7.0\TopLearn.Core.dll
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\bin\Debug\net7.0\TopLearn.Core.pdb
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\bin\Debug\net7.0\TopLearn.DataLayer.dll
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\bin\Debug\net7.0\TopLearn.DataLayer.pdb
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\obj\Debug\net7.0\TopLearn.Core.csproj.AssemblyReference.cache
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\obj\Debug\net7.0\TopLearn.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\obj\Debug\net7.0\TopLearn.Core.AssemblyInfoInputs.cache
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\obj\Debug\net7.0\TopLearn.Core.AssemblyInfo.cs
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\obj\Debug\net7.0\TopLearn.Core.csproj.CoreCompileInputs.cache
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\obj\Debug\net7.0\TopLearn.Core.csproj.CopyComplete
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\obj\Debug\net7.0\TopLearn.Core.dll
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\obj\Debug\net7.0\refint\TopLearn.Core.dll
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\obj\Debug\net7.0\TopLearn.Core.pdb
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\obj\Debug\net7.0\TopLearn.Core.genruntimeconfig.cache
+D:\Elham\Train\C#\TopLearnGit\TopLearn\TopLearn.Core\obj\Debug\net7.0\ref\TopLearn.Core.dll

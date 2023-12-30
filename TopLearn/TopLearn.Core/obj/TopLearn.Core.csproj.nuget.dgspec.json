@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj": {}
+    "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj": {}
   },
   "projects": {
-    "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj": {
+    "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj",
+        "projectUniqueName": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj",
         "projectName": "TopLearn.Core",
-        "projectPath": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj",
+        "projectPath": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Core\\TopLearn.Core.csproj",
         "packagesPath": "C:\\Users\\Zenbook\\.nuget\\packages\\",
-        "outputPath": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.Core\\obj\\",
+        "outputPath": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj": {
-                "projectPath": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj"
+              "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj": {
+                "projectPath": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj"
               }
             }
           }
@@ -87,18 +87,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj": {
+    "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj",
+        "projectUniqueName": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj",
         "projectName": "TopLearn.DataLayer",
-        "projectPath": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj",
+        "projectPath": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.DataLayer\\TopLearn.DataLayer.csproj",
         "packagesPath": "C:\\Users\\Zenbook\\.nuget\\packages\\",
-        "outputPath": "D:\\Elham\\Train\\C#\\Git Project\\TopLearn\\TopLearn.DataLayer\\obj\\",
+        "outputPath": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

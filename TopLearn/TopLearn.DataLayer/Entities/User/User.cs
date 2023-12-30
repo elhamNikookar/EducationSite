@@ -51,7 +51,7 @@ namespace TopLearn.DataLayer.Entities.User
         public string UserAvatar { get; set; }
 
         [Display(Name = "تاریخ ثبت نام")]
-        public DateTime RegisterDate { get; set; }
+        public DateTime RegisterDate { get; set; } = DateTime.Now;
 
         public bool IsDelete { get; set; }
 

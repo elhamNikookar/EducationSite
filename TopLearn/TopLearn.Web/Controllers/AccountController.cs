@@ -48,13 +48,13 @@ namespace TopLearn.Web.Controllers
 
             if (_userService.IsExistEmail(register.Email.FixEmail()))
             {
-                ModelState.AddModelError("Email", "ایمیل معتبر نمی باشد.");
+                ModelState.AddModelError("Email", "ایمیل قبلا ثبت شده است.");
                 return View(register);
             }
 
             if (_userService.IsExistUserName(register.UserName))
             {
-                ModelState.AddModelError("UserName", "نام کاربری معتبر نمی باشد.");
+                ModelState.AddModelError("UserName", "این نام کاربری از قبل رزرو شده است.");
                 return View(register);
             }
 
@@ -73,8 +73,8 @@ namespace TopLearn.Web.Controllers
             _userService.AddUser(user);
 
             // send Activation email
-            string body = _viewRenderService.RenderToStringAsync("_ActiveEmail", user);
-            SendEmail.Send(user.Email, "ایمیل فعالسازی", body);
+            //string body = _viewRenderService.RenderToStringAsync("_ActiveEmail", user);
+            //SendEmail.Send(user.Email, "ایمیل فعالسازی", body);
 
 
             return View("SuccessRegister", user);
@@ -130,8 +130,9 @@ namespace TopLearn.Web.Controllers
                     ModelState.AddModelError("Email", "حساب کاربری فعال نمی باشد.");
                 }
             }
+            else
 
-            ModelState.AddModelError("Email", "حساب کاربری یافت نشد!");
+                ModelState.AddModelError("Email", "حساب کاربری یافت نشد!");
 
 
             return View(login);

@@ -15,7 +15,7 @@ namespace TopLearn.IocLayer
     {
         public static void RegisterServicse(IServiceCollection service)
         {
-            service.AddScoped<IUserService, UserService>();
+            service.AddTransient<IUserService, UserService>();
             service.AddTransient<IViewRenderService, RenderViewToString>();
             service.AddScoped<IPermissionService, PermissionService>();
         }
