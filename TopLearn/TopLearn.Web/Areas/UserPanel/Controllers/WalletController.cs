@@ -32,7 +32,7 @@ namespace TopLearn.Web.Areas.UserPanel.Controllers
         }
 
         [Route("UserPanel/Wallet")]
-        [HttpPatch]
+        [HttpPost]
         public IActionResult Index(ChargeWalletViewModel charge)
         {
             if(!ModelState.IsValid)
@@ -48,7 +48,7 @@ namespace TopLearn.Web.Areas.UserPanel.Controllers
 
             var payment = new ZarinpalSandbox.Payment(charge.Amount);
 
-            var res = payment.PaymentRequest("شارژ کیف پول", "https://localhost:7006/OnlinePayment/" + walletId);
+            var res = payment.PaymentRequest("شارژ کیف پول", "https://localhost:7177/OnlinePayment/" + walletId);
 
             if (res.Result.Status == 100)
             {

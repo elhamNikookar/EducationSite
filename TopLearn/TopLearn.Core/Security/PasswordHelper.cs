@@ -11,8 +11,6 @@ namespace TopLearn.Core.Security
     public static class PasswordHelper
     {
 
-
-
         public static string EncodePasswordMd5(this string pass) //Encrypt using MD5   
         {
             Byte[] originalBytes;
