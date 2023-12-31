@@ -47,7 +47,7 @@ builder.Services.AddAuthentication(options =>
     {
         option.LoginPath = "/Login";
         option.LogoutPath = "/Logout";
-        option.ExpireTimeSpan = TimeSpan.FromDays(2);
+        option.ExpireTimeSpan = TimeSpan.FromDays(4);
     });
 
 #endregion
@@ -59,13 +59,23 @@ var app = builder.Build();
 app.UseStaticFiles();
 app.UseAuthentication();
 
-app.MapControllerRoute(
-     name: "areas",
-     pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
-     );
 
+app.UseMvc(routes =>
+{
+    routes.MapRoute(
+        name: "areas",
+        template: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
 
-app.UseMvcWithDefaultRoute();
+    );
+    routes.MapRoute("Default", "{controller=Home}/{action=Index}/{id?}");
+});
+
+//app.MapControllerRoute(
+//     name: "areas",
+//     pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+//     );
+
+//app.UseMvcWithDefaultRoute();
 
 app.MapGet("/", () => "Hello World!");
 

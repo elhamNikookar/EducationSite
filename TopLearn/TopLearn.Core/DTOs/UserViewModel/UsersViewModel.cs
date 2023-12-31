@@ -36,7 +36,7 @@ namespace TopLearn.Core.DTOs.UserViewModel
         [MaxLength(200, ErrorMessage = "{0} نمی تواند بیش از{1} کاراکتر  اشته باشد.")]
         public string Password { get; set; }
 
-        public IFormFile UserAvatar { get; set; }
+        public IFormFile? UserAvatar { get; set; }
 
         //public List<int> SelectedRoles { get; set; }
     }
@@ -63,7 +63,7 @@ namespace TopLearn.Core.DTOs.UserViewModel
 
         public string AvatarName { get; set; }
 
-        public IFormFile UserAvatar { get; set; }
+        public IFormFile? UserAvatar { get; set; }
 
     }
 

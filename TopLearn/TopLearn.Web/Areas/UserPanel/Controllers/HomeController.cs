@@ -39,12 +39,12 @@ namespace TopLearn.Web.Areas.UserPanel.Controllers
         [HttpPost]
         public IActionResult EditProfile(EditProfileViewModel profile)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
                 return View(profile);
 
             _userService.EditProfile(User.Identity.Name, profile);
             ViewBag.IsSuccess = true;
-
+            //Logout
             HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
             return Redirect("/Login?EditProfile=true"); 
         }

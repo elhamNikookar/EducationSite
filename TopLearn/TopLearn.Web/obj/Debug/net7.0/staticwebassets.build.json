@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7vel5DegvjPmHcHPDWABStTZK8TvKYb4pdoO6DtIhwk=",
+  "Hash": "P5LxU8gJzXCkB27ruJA5F3iTkaCrE07T9EwaLn6ryRo=",
   "Source": "TopLearn.Web",
   "BasePath": "_content/TopLearn.Web",
   "Mode": "Default",
@@ -1700,12 +1700,12 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\Defult.jpg",
+      "Identity": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\122bb2bb9f494cbea398f601547e9d0d.jpg",
       "SourceId": "TopLearn.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Web\\wwwroot\\",
       "BasePath": "_content/TopLearn.Web",
-      "RelativePath": "UserAvatar/Defult.jpg",
+      "RelativePath": "UserAvatar/122bb2bb9f494cbea398f601547e9d0d.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1714,7 +1714,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\UserAvatar\\Defult.jpg"
+      "OriginalItemSpec": "wwwroot\\UserAvatar\\122bb2bb9f494cbea398f601547e9d0d.jpg"
     }
   ]
 }

@@ -40,7 +40,7 @@ namespace TopLearn.Core.DTOs.UserViewModel
 
         public string AvatarName { get; set; }
 
-        public IFormFile UserAvatar { get; set; }
+        public IFormFile? UserAvatar { get; set; }
     }
 
     public class ChangePasswordViewModel

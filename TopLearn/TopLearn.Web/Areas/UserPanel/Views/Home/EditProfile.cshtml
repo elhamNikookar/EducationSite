@@ -24,14 +24,14 @@
                         <header><h1> ویرایش حساب کاربری </h1></header>
                         <div class="inner form-layer">
                             <form asp-action="EditProfile" method="post" enctype="multipart/form-data">
-                              @if (ViewBag.IsSuccess != null)
-                              {
-                                  <div class="alert alert-success">
-                                      اطلاعات کاربری شما با موفقیت ویرایش شد
-                                  </div>
-                              }
+                                @if (ViewBag.IsSuccess != null)
+                                {
+                                    <div class="alert alert-success">
+                                        اطلاعات کاربری شما با موفقیت ویرایش شد
+                                    </div>
+                                }
 
-                                <input type="hidden" asp-for="AvatarName"/>
+                                <input type="hidden" asp-for="AvatarName" />
                                 <div class="row">
                                     <div class="col-md-7 col-sm-8 col-xs-12">
                                         <div class="input-group">
@@ -49,9 +49,9 @@
                                         <p class="help-block">
                                             آواتار
                                         </p>
-                                        <input type="file" asp-for="UserAvatar"/>
+                                        <input type="file" asp-for="UserAvatar" required="false" />
                                         <p>لطفا فقط تصویر انتخاب کنید</p>
-                                        <img class="thumbnail" src="/UserAvatar/@Model.AvatarName" style="max-width: 150px"/>
+                                        <img class="thumbnail" src="/UserAvatar/@Model.AvatarName" style="max-width: 150px" />
                                     </div>
                                     <div class="col-md-7 col-sm-8 col-xs-12">
                                         <button class="btn btn-success"> ویرایش اطلاعات </button>
