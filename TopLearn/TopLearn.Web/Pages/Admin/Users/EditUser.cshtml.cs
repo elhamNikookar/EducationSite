@@ -7,7 +7,7 @@ using TopLearn.Core.Services.Interfaces;
 namespace TopLearn.Web.Pages.Admin.Users
 {
 
-    [PermissionChecker(4)]
+    //[PermissionChecker(4)]
     public class EditUserModel : PageModel
     {
 
@@ -37,7 +37,10 @@ namespace TopLearn.Web.Pages.Admin.Users
         public IActionResult OnPost(List<int> SelectedRoles)
         {
             if (!ModelState.IsValid)
+            {
+                ViewData["Roles"] = _permissionService.GetRoles();
                 return Page();
+            }
 
             _userService.EditUserFromAdmin(EditUserViewModel);
 

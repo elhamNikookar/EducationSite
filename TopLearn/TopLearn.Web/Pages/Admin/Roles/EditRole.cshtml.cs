@@ -11,7 +11,7 @@ using TopLearn.DataLayer.Entities.User;
 namespace TopLearn.Web.Pages.Admin.Roles
 {
 
-    [PermissionChecker(8)]
+    //[PermissionChecker(8)]
     public class EditRoleModel : PageModel
     {
         #region Constructor
@@ -41,7 +41,6 @@ namespace TopLearn.Web.Pages.Admin.Roles
         {
             if (!ModelState.IsValid)
                 return Page();
-
 
             _permissionService.UpdateRole(Role);
 

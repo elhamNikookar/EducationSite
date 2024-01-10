@@ -10,7 +10,7 @@ using TopLearn.DataLayer.Entities.User;
 
 namespace TopLearn.Web.Pages.Admin.Roles
 {
-    [PermissionChecker(7)]
+    //[PermissionChecker(7)]
     public class CreateRoleModel : PageModel
     {
 
@@ -30,14 +30,13 @@ namespace TopLearn.Web.Pages.Admin.Roles
 
         public void OnGet()
         {
-            ViewData["Permission"] = _permissionService.GetAllPermission();
+            ViewData["Permissions"] = _permissionService.GetAllPermission();
         }
 
         public IActionResult OnPost(List<int> SelectedPermission)
         {
             if (!ModelState.IsValid)
                 return Page();
-
 
             Role.IsDelete = false;
             int roleId = _permissionService.AddRole(Role);

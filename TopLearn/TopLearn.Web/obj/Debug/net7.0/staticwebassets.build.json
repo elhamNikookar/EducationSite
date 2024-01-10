@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ne0eOtZzPWdwwKqZ0me9SwqP8VGzwdBOqooLzVNL2ZU=",
+  "Hash": "ybjmk1mqjo0+fY0kcD2BYumfVeP/gflWOMOSU2q18vI=",
   "Source": "TopLearn.Web",
   "BasePath": "_content/TopLearn.Web",
   "Mode": "Default",
@@ -1715,6 +1715,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\UserAvatar\\391d6d0faab548fa8d06245a7de9a912.jpg"
+    },
+    {
+      "Identity": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\8ff52e571cd34226aaff643af990afa0.jpg",
+      "SourceId": "TopLearn.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "BasePath": "_content/TopLearn.Web",
+      "RelativePath": "UserAvatar/8ff52e571cd34226aaff643af990afa0.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UserAvatar\\8ff52e571cd34226aaff643af990afa0.jpg"
+    },
+    {
+      "Identity": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\Default.png",
+      "SourceId": "TopLearn.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Web\\wwwroot\\",
+      "BasePath": "_content/TopLearn.Web",
+      "RelativePath": "UserAvatar/Default.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UserAvatar\\Default.png"
     }
   ]
 }

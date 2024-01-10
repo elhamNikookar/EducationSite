@@ -66,7 +66,7 @@ namespace TopLearn.Web.Controllers
                 IsActive = false,
                 Password = register.Password.EncodePasswordMd5(),
                 RegisterDate = DateTime.Now,
-                UserAvatar = "Default.jpg",
+                UserAvatar = SD.DefaultUserAvatar,
                 UserName = register.UserName
             };
 

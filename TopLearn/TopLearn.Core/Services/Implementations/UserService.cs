@@ -165,7 +165,7 @@ namespace TopLearn.Core.Services.Implementations
             if (profile.UserAvatar != null)
             {
                 string imagePath = "";
-                if (profile.UserName != "Default.jpg")
+                if (profile.AvatarName != SD.DefaultUserAvatar)
                 {
                     imagePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/UserAvatar", profile.AvatarName);
                     if (File.Exists(imagePath))
@@ -297,13 +297,13 @@ namespace TopLearn.Core.Services.Implementations
                 result = result.Where(u => u.UserName.Contains(filterUserName));
 
             //Show Item In Page
-            int take = 20;
-            int skip = (pageId - 1) * take;
+
+            int skip = (pageId - 1) * SD.ItemPerPage;
 
             UsersForAdminViewModel list = new UsersForAdminViewModel();
             list.CurrentPage = pageId;
-            list.PageCount = result.Count() / take;
-            list.Users = result.OrderBy(u => u.RegisterDate).Skip(skip).Take(take).ToList();
+            list.PageCount = result.Count() / SD.ItemPerPage;
+            list.Users = result.OrderBy(u => u.RegisterDate).Skip(skip).Take(SD.ItemPerPage).ToList();
 
             return list;
         }
@@ -355,6 +355,7 @@ namespace TopLearn.Core.Services.Implementations
                 }
             }
 
+
             #endregion
 
             return AddUser(newUser);
@@ -379,20 +380,16 @@ namespace TopLearn.Core.Services.Implementations
             User user = GetUserById(editUser.UserId);
             user.Email = editUser.Email;
             if (!string.IsNullOrEmpty(editUser.Password))
-            {
                 user.Password = editUser.Password.EncodePasswordMd5();
-            }
 
             if (editUser.UserAvatar != null)
             {
                 //Delete old Image
-                if (editUser.AvatarName != "Defult.jpg")
+                if (editUser.AvatarName != SD.DefaultUserAvatar)
                 {
                     string deletePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/UserAvatar", editUser.AvatarName);
                     if (File.Exists(deletePath))
-                    {
                         File.Delete(deletePath);
-                    }
                 }
 
                 //Save New Image

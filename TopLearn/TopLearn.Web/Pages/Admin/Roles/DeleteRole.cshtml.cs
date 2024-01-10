@@ -11,7 +11,7 @@ using TopLearn.DataLayer.Entities.User;
 namespace TopLearn.Web.Pages.Admin.Roles
 {
 
-    [PermissionChecker(9)]
+    //[PermissionChecker(9)]
     public class DeleteRoleModel : PageModel
     {
         #region Constructor

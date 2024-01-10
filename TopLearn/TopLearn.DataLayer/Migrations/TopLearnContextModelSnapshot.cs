@@ -45,7 +45,7 @@ namespace TopLearn.DataLayer.Migrations
 
                     b.HasIndex("ParentId");
 
-                    b.ToTable("CourseGroups");
+                    b.ToTable("CourseGroups", (string)null);
                 });
 
             modelBuilder.Entity("TopLearn.DataLayer.Entities.Permissions.Permission", b =>
@@ -68,7 +68,7 @@ namespace TopLearn.DataLayer.Migrations
 
                     b.HasIndex("ParentId");
 
-                    b.ToTable("Permissions");
+                    b.ToTable("Permissions", (string)null);
                 });
 
             modelBuilder.Entity("TopLearn.DataLayer.Entities.Permissions.RolePermission", b =>
@@ -91,7 +91,7 @@ namespace TopLearn.DataLayer.Migrations
 
                     b.HasIndex("RoleId");
 
-                    b.ToTable("RolePermissions");
+                    b.ToTable("RolePermissions", (string)null);
                 });
 
             modelBuilder.Entity("TopLearn.DataLayer.Entities.User.Role", b =>
@@ -112,7 +112,7 @@ namespace TopLearn.DataLayer.Migrations
 
                     b.HasKey("RoleId");
 
-                    b.ToTable("Roles");
+                    b.ToTable("Roles", (string)null);
                 });
 
             modelBuilder.Entity("TopLearn.DataLayer.Entities.User.User", b =>
@@ -157,7 +157,7 @@ namespace TopLearn.DataLayer.Migrations
 
                     b.HasKey("UserId");
 
-                    b.ToTable("Users");
+                    b.ToTable("Users", (string)null);
                 });
 
             modelBuilder.Entity("TopLearn.DataLayer.Entities.User.UserRole", b =>
@@ -180,7 +180,7 @@ namespace TopLearn.DataLayer.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("UserRoles");
+                    b.ToTable("UserRoles", (string)null);
                 });
 
             modelBuilder.Entity("TopLearn.DataLayer.Entities.Wallet.Wallet", b =>
@@ -219,7 +219,7 @@ namespace TopLearn.DataLayer.Migrations
 
                     b.HasIndex("WalletTypeTypeId");
 
-                    b.ToTable("Wallets");
+                    b.ToTable("Wallets", (string)null);
                 });
 
             modelBuilder.Entity("TopLearn.DataLayer.Entities.Wallet.WalletType", b =>
@@ -234,7 +234,7 @@ namespace TopLearn.DataLayer.Migrations
 
                     b.HasKey("TypeId");
 
-                    b.ToTable("WalletTypes");
+                    b.ToTable("WalletTypes", (string)null);
                 });
 
             modelBuilder.Entity("TopLearn.DataLayer.Entities.Course.CourseGroup", b =>

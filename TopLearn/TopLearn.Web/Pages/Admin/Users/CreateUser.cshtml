@@ -1,5 +1,6 @@
 ﻿@page
 @using TopLearn.DataLayer.Entities.User
+@using TopLearn.Core.Generator
 @model TopLearn.Web.Pages.Admin.Users.CreateUserModel
 @{
     ViewData["Title"] = "افزودن کاربر";
@@ -40,7 +41,7 @@
                         {
                             <div class="checkbox">
                                 <label>
-                                    <input type="checkbox" name="SelectedRoles" value="@item..RoleId">@item.RoleTitle
+                                    <input type="checkbox" name="SelectedRoles" value="@item.RoleId">@item.RoleTitle
                                 </label>
                             </div>
                         }
@@ -58,7 +59,7 @@
                 </div>
                 <!-- /.panel-heading -->
                 <div class="panel-body">
-                    <img id="imgAvatar" class="thumbnail" src="/UserAvatar/Defult.jpg" />
+                    <img id="imgAvatar" class="thumbnail" src="/UserAvatar/Default.png" />
                     <div class="form-group">
                         <label>انتخاب تصویر</label>
                         <input type="file" asp-for="CreateUserViewModel.UserAvatar">
@@ -70,6 +71,7 @@
         </div>
 
     </form>
+  
 </div>
 
 @section Scripts

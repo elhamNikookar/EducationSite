@@ -8,6 +8,9 @@ namespace TopLearn.Core.Generator
 {
     public class SD
     {
-        public static string LocalHost = "https://localhost:7177";
+        public const string LocalHost = "https://localhost:7177";
+
+        public const int ItemPerPage = 10;
+        public const string DefaultUserAvatar = "Default.png";
     }
 }

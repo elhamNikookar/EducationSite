@@ -29,16 +29,16 @@ namespace TopLearn.Core.DTOs.UserViewModel
         [Display(Name = "نام کاربری")]
         [Required(ErrorMessage = "لطفا{0} را وارد کنید.")]
         [MaxLength(200, ErrorMessage = "{0} نمی تواند بیش از{1} کاراکتر  اشته باشد.")]
-        public string UserName { get; set; }
+        public string? UserName { get; set; }
 
 
         [Display(Name = "ایمیل")]
         [Required(ErrorMessage = "لطفا{0} را وارد کنید.")]
         [MaxLength(200, ErrorMessage = "{0} نمی تواند بیش از{1} کاراکتر  اشته باشد.")]
         [EmailAddress(ErrorMessage = "ایمیل وارد شده معتبر نمی باشد.")]
-        public string Email { get; set; }
+        public string? Email { get; set; }
 
-        public string AvatarName { get; set; }
+        public string? AvatarName { get; set; }
 
         public IFormFile? UserAvatar { get; set; }
     }

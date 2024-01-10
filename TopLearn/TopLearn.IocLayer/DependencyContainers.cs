@@ -18,6 +18,7 @@ namespace TopLearn.IocLayer
             service.AddTransient<IUserService, UserService>();
             service.AddTransient<IViewRenderService, RenderViewToString>();
             service.AddScoped<IPermissionService, PermissionService>();
+            service.AddTransient<ICourseService, CourseService>();
         }
     }
 }

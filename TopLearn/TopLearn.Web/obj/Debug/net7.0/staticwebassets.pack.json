@@ -253,6 +253,14 @@
       "PackagePath": "staticwebassets\\UserAvatar\\391d6d0faab548fa8d06245a7de9a912.jpg"
     },
     {
+      "Id": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\8ff52e571cd34226aaff643af990afa0.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\8ff52e571cd34226aaff643af990afa0.jpg"
+    },
+    {
+      "Id": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Web\\wwwroot\\UserAvatar\\Default.png",
+      "PackagePath": "staticwebassets\\UserAvatar\\Default.png"
+    },
+    {
       "Id": "D:\\Elham\\Train\\C#\\TopLearnGit\\TopLearn\\TopLearn.Web\\wwwroot\\css\\CustomCss.css",
       "PackagePath": "staticwebassets\\css\\CustomCss.css"
     },

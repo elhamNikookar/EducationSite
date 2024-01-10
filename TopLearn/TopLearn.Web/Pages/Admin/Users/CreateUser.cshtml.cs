@@ -6,7 +6,7 @@ using TopLearn.Core.Services.Interfaces;
 
 namespace TopLearn.Web.Pages.Admin.Users
 {
-    [PermissionChecker(3)]
+    //[PermissionChecker(3)]
     public class CreateUserModel : PageModel
     {
         #region Constructor
@@ -35,7 +35,10 @@ namespace TopLearn.Web.Pages.Admin.Users
         public IActionResult OnPost(List<int> SelectedRoles)
         {
             if (!ModelState.IsValid)
+            {
+                ViewData["Roles"] = _permissionService.GetRoles();
                 return Page();
+            }
 
             int userId = _userService.CreateNewUserFromAdmin(CreateUserViewModel);
 
